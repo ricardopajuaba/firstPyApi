@@ -5,6 +5,7 @@
 ## Tecnologia utilizada:
 
 * [Python](https://www.python.org/): linguagem de programação
+* Flask: Framework
 
 
 
